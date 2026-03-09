@@ -4,13 +4,16 @@ This is a fully diy hovercraft, most of their parts are fully 3d printed, the on
 
 ## Background 
 
-Recently I wanted to start doing some RC stuff, I originally wante to do a drone, but my teacher gave me another challenge, do a hovercraft, the idea was simple, he give me all the suplies, motor, esc, controller batteris and unlimited use of the school machines. The catch was, I had 1 month to do it, and if i was succesfull he would let me keep it, if i wasnt I had to sort all of the mixed up resistors he had in a box, so I took the challenge (plus I get a very bad greade in the class)
+Recently I wanted to start doing some RC stuff, I originally wante to do a drone, but my teacher gave me another challenge, do a hovercraft, the idea was simple, he give me all the suplies, motor, esc, controller batteris and unlimited use of the school machines. The catch was, I had 1 month to do it, and if I was succesfull he would let me keep it, if i wasnt I had to sort all of the mixed up resistors he had in a box, so I took the challenge (plus I get a very bad greade in the class)
 
 Turns out he would regreat this deal because the hovercraft would work flawlessly
 
-(Note, the propeller file is not an step because it's too heavy to upload to the repo)
+(Note none of the parts on the render are the actual ones used, since I couldnt find the 3d models for them, they are there just just illustration effects + I didnt add the step of the prop since it is too big for github)
 
 # Images
+
+## Hovercraft Render!
+![duct](media/render.png) 
 
 
 ## Hovercraft Images!
