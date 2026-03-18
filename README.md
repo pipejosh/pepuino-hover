@@ -4,7 +4,7 @@ This is a fully diy hovercraft, most of their parts are fully 3d printed, the on
 
 ## Background 
 
-Recently I wanted to start doing some RC stuff, I originally wante to do a drone, but my teacher gave me another challenge, do a hovercraft, the idea was simple, he give me all the suplies, motor, esc, controller batteris and unlimited use of the school machines. The catch was, I had 1 month to do it, and if I was succesfull he would let me keep it, if i wasnt I had to sort all of the mixed up resistors he had in a box, so I took the challenge (plus I get a very bad greade in the class)
+Recently my friends wanted to start doing some RC stuff, we origninally wanted to do a drone, but the teacher gave us another challenge. Do a hovercraft, the idea was simple, he give us all the suplies, motor, esc, controller batteris and unlimited use of the school machines. The catch was, I had 1 month to do it, and if I was succesfull he would let us keep it. If we were not we had to sort all of the mixed up resistors he had in a box, so we accepted the challenge 
 
 Turns out he would regreat this deal because the hovercraft would work flawlessly
 
