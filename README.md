@@ -17,7 +17,7 @@ Turns out he would regreat this deal because the hovercraft would work flawlessl
 
 
 ## Hovercraft Images!
-<img src="media/hovercraft.png" style="height:500px;"> <img src="media/hovercraft1.png" style="height:500px;">
+<img src="media/hovercraft.png" style="height:300px;"> <img src="media/hovercraft1.png" style="height:300px;">
 
 ## Wiring diagram
 ![wiring](media/wiring.png) 
