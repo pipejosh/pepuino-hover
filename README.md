@@ -1,4 +1,4 @@
-# Hovercraft!
+# PEPUINO HOVER
 
 This is a fully diy hovercraft, most of their parts are fully 3d printed, the only parts that are not is the foam chasi and the camping tarp bladder powered by a brushless motor, capable of hovering, and stearing. 
 
@@ -12,11 +12,11 @@ Turns out he would regreat this deal because the hovercraft would work flawlessl
 
 # Images
 
-## Hovercraft Render!
+## Hovercraft Render
 ![duct](IMG/render.png) 
 
 
-## Hovercraft Images!
+## Hovercraft Images
 <img src="IMG/hovercraft.png" style="height:350px;"> <img src="IMG/hovercraft1.png" style="height:350px;">
 
 # Assembly Instructions
