@@ -13,17 +13,17 @@ Turns out he would regreat this deal because the hovercraft would work flawlessl
 # Images
 
 ## Hovercraft Render!
-![duct](media/render.png) 
+![duct](IMG/render.png) 
 
 
 ## Hovercraft Images!
-<img src="media/hovercraft.png" style="height:300px;"> <img src="media/hovercraft1.png" style="height:300px;">
+<img src="IMG/hovercraft.png" style="height:350px;"> <img src="IMG/hovercraft1.png" style="height:350px;">
 
 # Assembly Instructions
-![assembly](media/assembly.png) 
+![assembly](IMG/assembly.png) 
 
 ## Wiring diagram
-![wiring](media/wiring.png) 
+![wiring](IMG/wiring.png) 
 
 # Video of the hovercraft
 
