@@ -19,11 +19,11 @@ Turns out he would regreat this deal because the hovercraft would work flawlessl
 ## Hovercraft Images!
 <img src="media/hovercraft.png" style="height:300px;"> <img src="media/hovercraft1.png" style="height:300px;">
 
-## Wiring diagram
-![wiring](media/wiring.png) 
-
 # Assembly Instructions
 ![assembly](media/assembly.png) 
+
+## Wiring diagram
+![wiring](media/wiring.png) 
 
 # Video of the hovercraft
 
